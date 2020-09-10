@@ -3,7 +3,21 @@
   <title>The Best Motherfucking Website</title>
   
   
-  <link rel="stylesheet" type="text/css" href="main.css">
+  <style>
+  div{
+	margin: auto;
+  width: 50%;
+  
+  padding: 10px;
+  line-height: 1cm;
+  font-size: large;
+
+}
+h1,h2,h3{
+	color:#000000;
+	opacity: 0.7;
+}
+</style>
 </head>
 <body><h1>This is the <i>best</i> motherfucking website.</h1>
   <p class="st">Really, it is.</p>
