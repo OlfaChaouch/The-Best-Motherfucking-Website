@@ -1,4 +1,4 @@
-# MySite<!DOCTYPE html><html lang="en">
+# The Best Motherfucking Website<!DOCTYPE html><html lang="en">
 <head><meta charset="utf-8">
   <title>The Best Motherfucking Website</title>
   
